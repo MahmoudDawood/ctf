@@ -1,0 +1,9 @@
+Character Set: A-Z a-x 0-9 and spaces
+rot13
+
+rot13 is it's own inverse.
+ROT13 is recognizable from some letter/word patterns. The words "n", "V" (capitalized only), and "gur" (ROT13 for "a", "I", and "the"), and words ending in "yl" ("ly") are examples. 
+
+Input 	ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+Output 	NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm
+
