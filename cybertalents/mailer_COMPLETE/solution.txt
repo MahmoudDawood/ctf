@@ -1,0 +1,6 @@
+https://cybertalents.com/learn/introduction-to-cybersecurity-bootcamp-cohort-5/units/cybertalents-certified-cybersecurity-practitioner_1/lessons/attacks-vulnerabilities/challenges/mailer
+
+Extract the file
+Usually malwares files are executables, ends with .exe or .bcs
+Search the Sent file for a ".exe" word
+
